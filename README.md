@@ -27,7 +27,7 @@ Here are some of the technologies I frequently use:
 
 ### Featured Projects
 
-- **[Python-Codes](https://github.com/yourusername/Python-Codes):** A collection of Python scripts ranging from beginner to advanced levels.
+- **[Python-Codes](https://github.com/singhvibhanshu/Python-Codes):** A collection of Python scripts ranging from beginner to advanced levels.
 - **[MyWebPortfolio](https://github.com/yourusername/MyWebPortfolio):** A responsive personal portfolio website built with modern web technologies.
 - **[CoolProjectName](https://github.com/yourusername/CoolProjectName):** [Add a brief description of another project you're proud of.]
 
