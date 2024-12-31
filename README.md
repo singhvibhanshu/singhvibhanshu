@@ -35,8 +35,8 @@ Here are some of the technologies I frequently use:
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [Vibhanshu Singh](https://www.linkedin.com/in/yourprofile)
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+- **LinkedIn:** [@singhvibhanshu](https://www.linkedin.com/in/singhvibhanshu)
+- **Twitter:** [@_singhvibhanshu](https://twitter.com/_singhvibhanshu)
 - **Portfolio:** [yourwebsite.com](https://yourwebsite.com) *(if applicable)*
 
 ---
