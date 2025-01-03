@@ -1,4 +1,4 @@
-# Heythere! 👋 I'm Vibhanshu Singh
+# Hey there! 👋 I'm Vibhanshu Singh
 
 Welcome to my GitHub profile! I'm passionate about coding, exploring new technologies, and building projects that make a difference. 
 
