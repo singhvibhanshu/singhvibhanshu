@@ -1,4 +1,4 @@
-# This readme repo is under construction!!!
+# This readme repo is under construction!!! Don't follow it blindly!
 # Hey there! 👋 I'm Vibhanshu Singh
 
 Welcome to my GitHub profile! I'm passionate about coding, exploring new technologies, and building projects that make a difference. 
