@@ -6,7 +6,7 @@
 <p"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitt13&theme=onedark" alt="harshitt13" /></a> </p>
 </div>
 
-<h1 align="center">Hi 👋, I'm Harshit Kushwaha</h1>
+<h1 align="center">Hi 👋, I'm Vibhanshu Singh</h1>
 
 <h3 align="center">A passionate ML/AI Engineer with expertise in developing, training, and deploying machine learning models. Skilled in deep learning, data analysis, and leveraging AI for innovative solutions.</h3>
 
